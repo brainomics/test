@@ -1,7 +1,5 @@
 Brainomics tell : Hello World
 Brainomics tell 2 : Hello World
-<<<<<<< HEAD
 Edouard tell 1 : Hello World
-=======
 Brainomics tell 3 : Hello World
->>>>>>> b08ac06bd419ec638bad8e59b25ca75fc91aa92b
+
